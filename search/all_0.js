@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['basegetter_0',['BaseGetter',['../classPid_1_1BaseGetter.html',1,'Pid']]]
+  ['framework_0',['Particle Identification Framework',['../index.html',1,'']]]
 ];
